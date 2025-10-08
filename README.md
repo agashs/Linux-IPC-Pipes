@@ -99,12 +99,10 @@ void client(int wfd, int rfd) {
     write(1, buff, n);
 }
 ```
-
-
-
 ## OUTPUT
 
-file:///home/agash/OS/EXP3/Linux-IPC-Pipes/image1.png 
+<img width="591" height="130" alt="image" src="https://github.com/user-attachments/assets/2e59bbe4-f90c-47f2-bc11-04430936c1ec" />
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
@@ -199,7 +197,8 @@ int fifo_fd;
 
 ## OUTPUT
 
-file:///home/agash/OS/EXP3/Linux-IPC-Pipes/image2.png 
+<img width="564" height="106" alt="image" src="https://github.com/user-attachments/assets/8ac678ca-01b1-40db-aeef-c4efbf84afa7" />
+
 
 # RESULT:
 The program is executed successfully.
